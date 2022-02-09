@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gokhanobut
-- 👀 I’m interested in devolope
+- 👀 I’m interested in developing.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
 <!---
